@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-25T11:57:22.000Z</updated>
+  <updated>2016-12-27T15:45:39.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,31 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Documentation</title>
-    <link href="http://yoursite.com/2016/12/25/Documentation/"/>
-    <id>http://yoursite.com/2016/12/25/Documentation/</id>
-    <published>2016-12-25T14:50:15.000Z</published>
-    <updated>2016-12-25T11:57:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>MES INFORMATION</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;MES INFORMATION&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Introduction</title>
     <link href="http://yoursite.com/2016/12/25/Introduction/"/>
     <id>http://yoursite.com/2016/12/25/Introduction/</id>
     <published>2016-12-25T13:24:13.000Z</published>
-    <updated>2016-12-25T11:57:41.000Z</updated>
+    <updated>2016-12-27T15:45:39.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to Ling MA’s Blog <a href="https://ling-ma.github.io/" target="_blank" rel="external">Ling MA</a>! It is my first blog. Check Documentation for more infomation about me. </p>
 <h2 id="My-works"><a href="#My-works" class="headerlink" title="My works"></a>My works</h2><h3 id="Visual-Reality"><a href="#Visual-Reality" class="headerlink" title="Visual Reality"></a>Visual Reality</h3><h4 id="Mobile-Application-Android"><a href="#Mobile-Application-Android" class="headerlink" title="-Mobile Application, Android"></a>-Mobile Application, Android</h4><p>I finished it when I was learning French in Lille 1, I used open source for simplify the process of developpement.</p>
@@ -48,6 +28,8 @@
 <p>I chose the topic because it is very hot in these years and the works of vistual reality is too heavy to wear. I want to creat a convenient and intresting application.</p>
 <p>It is a pedometer in visual reality. It will change the landscape when you change your position. I used the sensors in the mobile so it is easy for it to feel the change.</p>
 <p><b>Download my work and have a try: <a href="https://github.com/Ling-MA/Visual_Reality" target="_blank" rel="external">PVR</a><br></b></p>
+<h3 id="NoteBook"><a href="#NoteBook" class="headerlink" title="NoteBook"></a>NoteBook</h3><h4 id="WebApp"><a href="#WebApp" class="headerlink" title="-WebApp"></a>-WebApp</h4><p>This job is finished in summer of 2015, I took part in Summer Camp of Baidu Front End (EFE).It is a teamwork, my part is design and creat the interface.<br>Exellent Summer, learned a lot.</p>
+<p><b>Download my work and have a try:<a href="https://github.com/Ling-MA/NoteBook" target="_blank" rel="external">NoteBook</a></b></p>
 <h3 id="AMPL"><a href="#AMPL" class="headerlink" title="AMPL"></a>AMPL</h3><p>It is a Mathematical Programming Language for descpribe and solve the complex math problems. It don’t have complex grammars and it is very useful.For half of years of learning, I master it.</p>
 <p><b>Download my work and have a try: <a href="https://github.com/Ling-MA/works/tree/master/works/ARO/AMPL" target="_blank" rel="external">AMPL</a><br></b></p>
 <h3 id="C"><a href="#C" class="headerlink" title="C"></a>C</h3><h4 id="programme-du-systeme"><a href="#programme-du-systeme" class="headerlink" title="-programme du système"></a>-programme du système</h4><p>These job is learing how to programme in systerm Linux.<br>-Standard input and output<br>-Memory Management<br>-Document Management<br>-Directory Management<br>-Signal<br>-Tube<br>-Thread</p>
@@ -69,19 +51,26 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/12/25/hello-world/"/>
-    <id>http://yoursite.com/2016/12/25/hello-world/</id>
-    <published>2016-12-25T11:57:55.113Z</published>
-    <updated>2016-12-24T14:39:42.000Z</updated>
+    <title>Documentation</title>
+    <link href="http://yoursite.com/2016/12/24/Documentation/"/>
+    <id>http://yoursite.com/2016/12/24/Documentation/</id>
+    <published>2016-12-24T22:50:15.000Z</published>
+    <updated>2016-12-27T15:47:17.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://ling-ma.github.io/" target="_blank" rel="external">Ling MA’s Blog</a>! This is my first post.</p>
+    <content type="html"><![CDATA[<h2 id="MY-INFORMATION"><a href="#MY-INFORMATION" class="headerlink" title="MY INFORMATION"></a>MY INFORMATION</h2><h3 id="Programmation"><a href="#Programmation" class="headerlink" title="Programmation :"></a>Programmation :</h3><p>Base de données :  Postgre SQL</p>
+<p>Programmation :  Java, C</p>
+<p>Modelization:  AMPL</p>
+<p>Développement WEB :  HTML,CSS,Markdown</p>
+<h3 id="Logiciel"><a href="#Logiciel" class="headerlink" title="Logiciel:"></a>Logiciel:</h3><p>Git,Maven,Eclipse,Unity3D.</p>
+<h3 id="Bureautique"><a href="#Bureautique" class="headerlink" title="Bureautique:"></a>Bureautique:</h3><p>Présentation:Prezi,Focusky,PowerPoint</p>
+<p>Office (Exel,Words etc.):<br>Google Drive,WPS,LibreOffice,Microsoft.</p>
+<h3 id="Environnement"><a href="#Environnement" class="headerlink" title="Environnement:"></a>Environnement:</h3><p>Linux, MacOS, Windows</p>
+<h3 id="Langues"><a href="#Langues" class="headerlink" title="Langues :"></a>Langues :</h3><p>Français : Capacité professionnelle complète (Certification du Niveau B2)<br>Anglais : Capacité professionnelle basique (LIETS 6.5)<br>Chinois : Langue maternel</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://ling-ma.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ling MA’s Blog&lt;/a&gt;! This is my first post.&lt;/p&gt;
-
+      &lt;h2 id=&quot;MY-INFORMATION&quot;&gt;&lt;a href=&quot;#MY-INFORMATION&quot; class=&quot;headerlink&quot; title=&quot;MY INFORMATION&quot;&gt;&lt;/a&gt;MY INFORMATION&lt;/h2&gt;&lt;h3 id=&quot;Programmation&quot;&gt;&lt;a
     
     </summary>
     
